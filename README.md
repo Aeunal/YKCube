@@ -15,8 +15,8 @@ The host will decide if the answer was correct or wrong according to the answers
   
   
   
-New question will be able to open manually, the host can clikc to show the new topics  
+New question will be able to open manually, the host can click to show the new topics  
 ![image](https://user-images.githubusercontent.com/34489618/120932474-98a6e780-c6fe-11eb-8326-eb290bbe085c.png)
 
-
+If a question is answered wrong, the contestants cant continue through that cube 
 ![image](https://user-images.githubusercontent.com/34489618/120932904-5ed6e080-c700-11eb-88c9-5d33e33db8d7.png)
