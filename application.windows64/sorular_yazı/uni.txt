@@ -1,0 +1,5 @@
+Türkiye'de en fazla öğrenci sayısı olan üniversite hangisidir?
+a) İstanbul Üniversitesi
+b) Cumhuriyet Üniversitesi
+c) Gazi Üniversitesi
+d) Anadolu Üniversitesi

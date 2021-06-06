@@ -1,0 +1,5 @@
+QWERTY klavye düzeninde "B" harfinden sonra gelen harf hangisidir?
+a) J
+b) L
+c) M
+d) N
